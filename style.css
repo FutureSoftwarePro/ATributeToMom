@@ -1,0 +1,58 @@
+body{
+    background-color: gray
+    
+}
+#page{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+
+#topleft {
+    border-radius: 50%;
+    width: 90px; height: 90px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url("images/IMG_2090.JPG");
+    background-repeat:no-repeat;
+
+}
+
+#topright {
+    border-radius: 50%;
+    width: 90px; height: 90px;
+    position: absolute;
+    top: 0;
+    right: 0%;
+    background-image: url("images/IMG_2090 2.JPG");
+    background-repeat:no-repeat;
+
+}
+
+.text-center{
+    text-align: center;
+    font-size: xx-large;
+    text-decoration: underline;
+    
+}
+.container {
+    background-color: gray;
+}
+
+#opening {
+    text-align: center;
+    font-size: xx-large;
+}
+
+#image{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+
