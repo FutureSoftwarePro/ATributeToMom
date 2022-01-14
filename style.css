@@ -1,5 +1,5 @@
 body{
-    background-color: gray
+    background-color: rgb(124, 13, 124);
     
 }
 #page{
@@ -10,7 +10,7 @@ body{
 
 
 #topleft {
-    border-radius: 50%;
+    border-radius:50%;
     width: 90px; height: 90px;
     position: absolute;
     top: 0;
@@ -32,6 +32,7 @@ body{
 }
 
 .text-center{
+    color: yellow;
     text-align: center;
     font-size: xx-large;
     text-decoration: underline;
@@ -42,11 +43,13 @@ body{
 }
 
 #opening {
+    color: white;
     text-align: center;
     font-size: xx-large;
 }
 
 #image{
+    border: groove 1em green; 
     border-radius: 50%;
     display: block;
     margin-left: auto;
